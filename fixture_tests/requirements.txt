@@ -2,7 +2,7 @@ attrs==22.2.0
 cffi==1.15.1
 cryptography==38.0.4
 distlib==0.3.6
-filelock==3.12.2
+filelock==4.2.1
 jsonrpcserver==5.0.9
 jsonschema==4.17.3
 OSlash==0.6.3
